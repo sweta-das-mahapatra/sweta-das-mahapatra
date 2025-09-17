@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sweta  
 
-🚀 Aspiring **Agentic AI Engineer** | Skilled in **Python, SQL, Data Analysis, Machine Learning**  
+🚀 Aspiring **Data Analyst** | Skilled in **Python, SQL, Data Analysis, Machine Learning**  
 🎯 Passionate about building practical AI tools and data-driven solutions  
 
 ---
